@@ -1,0 +1,8 @@
+OrderId,UserId,UserName
+2,1,arsh_66
+
+ProductId,Quantity,PriceofProduct,Amount
+2,3,1200.0,3600.0
+1,1,15000.0,15000.0
+
+,,TOTAL,18600.0
